@@ -1,0 +1,23 @@
+{
+    "name": "新标签页",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "description": "我去宇宙了，回来带星星给你",
+    "chrome_url_overrides": {
+        "newtab": "index.html",
+        "default_icon": {
+            "16": "./img/logo_16.ico",
+            "32": "./img/logo_32.ico",
+            "64": "./img/logo_64.ico",
+            "128": "./img/logo_128.ico",
+            "512": "./img/logo_512.ico"
+        }
+    },
+    "icons": {
+        "16": "./img/logo_16.ico",
+        "32": "./img/logo_32.ico",
+        "64": "./img/logo_64.ico",
+        "128": "./img/logo_128.ico",
+        "512": "./img/logo_512.ico"
+    }
+}

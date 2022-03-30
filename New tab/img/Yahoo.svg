@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>icon-search-yahoo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon-search-yahoo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="36" height="36"></rect>
+            <g id="yahoo的副本" transform="translate(5.000000, 2.000000)" fill="#6001D2">
+                <path d="M14.6975,32 C14.6975,32 13.5775,31.796 12.6735,31.796 C11.8615,31.796 10.6435,32 10.6435,32 L10.8975,18.406 C9.0115,15.146 3.4675,5.214 0.0075,0 C1.7475,0.396 2.4795,0.372 4.2275,0 L4.2535,0.046 C6.4575,3.946 9.8255,9.386 12.6735,14.1 C15.4875,9.468 19.9135,2.236 21.1135,0 C22.4735,0.356 23.8455,0.344 25.3655,0 C23.7655,2.156 17.9455,12.23 14.4255,18.406 L14.6875,32 L14.6975,32 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

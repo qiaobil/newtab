@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>icon-search-bing</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon-search-bing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="Rectangle" fill-rule="nonzero" x="0" y="0" width="36" height="36"></rect>
+            <g id="bing" transform="translate(5.000000, 2.000000)" fill="#F4EA2A">
+                <polygon id="Path" points="0.0173950998 0 0.0173950998 27.0314625 7.3000635 31.9793485 25.8456186 20.9172985 25.8456186 13.1136125 9.67314286 8.16572647 13.1519374 15.2854099 17.7671737 17.4576525 0.686257002 26.6293438 7.49199393 20.1526941 7.25419613 1.93088238"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
